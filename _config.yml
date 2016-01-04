@@ -1,7 +1,7 @@
 name: Time Enthusiast
 favicon: null
 layout_spectrum: 0.8087267903611064
-typography_spectrum: 0.7535314285196364
+typography_spectrum: 0.83685
 title: 'Purveyors of fine timepieces '
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.3838009489700198
-  lightness: 0.18764938204549253
+  lightness: 0.25
   saturation: 0.8039293915499002
-  rhythmicContrast: 0.1658020259346813
+  rhythmicContrast: 0.5
 purpose: []
