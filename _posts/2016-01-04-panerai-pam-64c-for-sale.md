@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T19:03:25.896Z'
-dateModified: '2016-01-04T19:03:07.617Z'
+datePublished: '2016-01-04T19:54:58.495Z'
+dateModified: '2016-01-04T19:38:13.625Z'
 title: Panerai Pam 64C for sale
 author: []
+sourcePath: _posts/2016-01-04-panerai-pam-64c-for-sale.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-panerai-pam-64c-for-sale.md
-published: true
 url: panerai-pam-64c-for-sale/index.html
 _type: Article
 
